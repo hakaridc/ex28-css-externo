@@ -1,0 +1,16 @@
+h1{color: rgb(119, 0, 255);}
+
+
+p{  text-align: center;
+
+    font-weight: bold;
+
+    font-style: italic;
+
+    color: blueviolet; }
+
+body{  background-color: black; }
+
+
+#sim{
+    border: 3px solid blue; }
